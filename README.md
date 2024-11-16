@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdelillahCoder
+- 👋 Hi, I’m abdelillah
 - 👀 I’m interested in Python, programming, and technology.
 - 🌱 I’m currently learning advanced Python programming and exploring new technologies.
 - 💞️ I’m looking to collaborate on Python-based projects, machine learning, and web development.
