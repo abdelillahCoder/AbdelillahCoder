@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on Python-based projects, machine learning, and web development.
 - 📫 You can reach me via email at "abdelillahelrhadiouini@gmail.com" or through GitHub.
 - ⚡ Fun fact:  I love solving coding challenges and building cool projects in my free time!
+- 📚 I'm a student in technical high school.
