@@ -1,9 +1,4 @@
 
-    A         BBBB      DDDD     EEEEE    L        IIIII    L       L           A       H    H   CCCCC     OOO     DDDD     EEEEE    RRRR  
-   A A        B   B     D   D    E        L          I      L       L          A A      H    H   C        O   O    D   D    E        R   R 
-  A   A       BBBBB     D   D    EEEE     L          I      L       L         A   A     HHHHHH   C        O   O    D   D    EEEE     RRRR  
- AAAAAA       B   B     D   D    E        L          I      L       L        AAAAAA     H    H   C        O   O    D   D    E        R  R  
-A       A     BBBB      DDDD     EEEEE    LLLLL    IIIII    LLLLL   LLLLL   A       A   H    H   CCCCC     OOO     DDDD     EEEEE    R   RR
 
 
 
