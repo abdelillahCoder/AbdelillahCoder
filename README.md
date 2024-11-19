@@ -1,7 +1,4 @@
 
-
-
-
 - 👋 Hi, I’m abdelillah
 - 👀 I’m interested in Python, programming, and technology.
 - 🌱 I’m currently learning advanced Python programming and exploring new technologies AI.
