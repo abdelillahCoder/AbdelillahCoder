@@ -9,4 +9,3 @@
 ![Abdelillah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelillahCoder&show_icons=true&theme=radical)
 
 
-![Welcom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Welcom&show_icons=true&theme=radical)
