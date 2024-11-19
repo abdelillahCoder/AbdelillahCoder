@@ -1,3 +1,7 @@
+![Welcom's Animated Background](https://github.com/yourusername/yourrepositoryname/blob/main/assets/yourgif.gif)
+
+
+
 
 - 👋 Hi, I’m abdelillah
 - 👀 I’m interested in Python, programming, and technology.
