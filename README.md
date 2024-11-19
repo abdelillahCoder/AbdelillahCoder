@@ -5,3 +5,4 @@
 - 📫 You can reach me via email at "abdelillahelrhadiouini@gmail.com" or through GitHub.
 - ⚡ Fun fact: I love solving coding challenges, building cool projects, and prefer creating 3D models in SolidWorks in my free time!
 - 📚 I'm a student in technical high school.
+![Abdelillah's GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_NOM_UTILISATEUR&show_icons=true&theme=radical)
