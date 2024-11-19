@@ -7,3 +7,6 @@
 - ⚡ Fun fact: I love solving coding challenges, building cool projects, and prefer creating 3D models in SolidWorks in my free time!
 - 📚 I'm a student in technical high school.
 ![Abdelillah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelillahCoder&show_icons=true&theme=radical)
+
+
+![Welcom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Welcom&show_icons=true&theme=radical)
